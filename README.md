@@ -13,4 +13,4 @@ This machine learning competation is to build a machine learning model for custo
 - Deep Nueral Network - serve as the feature engineering machine that learn the high-ordered customers representations
 - LighGBM - the final models that fit customers historical purchases and above created features
 
-The final prediction error is 3.60599, which ranked as the 52th out of 4110 participants. Elo can utilize the models to learn their customers satisfactions and take actions to convert less engaged customers and/or to target specific customers groups.
+The final prediction error is ~3.606, which ranked at the 52th position out of 4110 participants. Elo can utilize the models to learn their customers satisfactions and take actions to convert less engaged customers and/or to target specific customers groups.
