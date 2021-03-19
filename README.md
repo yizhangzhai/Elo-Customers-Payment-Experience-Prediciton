@@ -17,3 +17,4 @@ This machine learning competation is to build a machine learning model for custo
 - LighGBM - the final models that fit customers historical purchases and above created features
 
 The final prediction error is ~3.606, which ranked at the 52th position out of 4110 participants. Elo can utilize the models to learn their customers satisfactions and take actions to convert less engaged customers and/or to target specific customers groups. With the interpretability of LightGBM combined with other model explain technique, such as Shap and Lime, Elo can also draw the insights about loyal customers preference and purchase patterns, and the opportunities of improving overall customer experiences and engagement.
+ 
